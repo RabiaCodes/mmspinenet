@@ -1,0 +1,3 @@
+[submodule "mmdetection_git"]
+	path = mmdetection_git
+	url = git@github.com:RabiaCodes/mmspinenet.git
